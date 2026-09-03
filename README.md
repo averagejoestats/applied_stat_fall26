@@ -1,4 +1,4 @@
-# applied_stat_fa26
+# applied_stat_fall26
 
 Course repository for Applied Statistics Practicum
 
