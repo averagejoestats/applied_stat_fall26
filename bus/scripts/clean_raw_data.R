@@ -1,6 +1,6 @@
 
 # read in the original data
-dat0 <- read.csv("../sample_transit_data/private/sample_bus_stop_data.csv")
+dat0 <- read.csv("../data/70_grand_20250701-20260630.csv")
 
 # lowercase the column names
 colnames(dat0) <- tolower( colnames(dat0) )
@@ -39,6 +39,6 @@ dat1 <- dat0 %>%
     as.data.frame()
 
 # write to a file
-fname <- "../sample_transit_data/private/bus_stop_data_v1.csv"
+fname <- "../data/bus_stop_data_v1.csv"
 write.csv(dat1, row.names = FALSE, quote = FALSE, file = fname )
 

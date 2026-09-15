@@ -1,6 +1,6 @@
 ---
 title: "SDS 4135 - Project 2"
-subtitle: "Due "
+subtitle: "Due September 27"
 output: pdf_document
 ---
 
@@ -8,10 +8,10 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Grand Ave Bus Time Analysis
+# Grand Blvd Bus Data Exploratory Analysis
 
-Joseph Silagi from St. Louis Metro has provided us with one year of data
-from the #70 Grand Ave Bus line. Each row of the data contains information from
+Joseph Silagi from St. Louis Metro Transit has provided us with one year of data
+from the #70 Grand bus line. Each row of the data contains information from
 one stop from one trip of a bus driving the route, and there are rows for both the
 northbound (route_direction_id = 7) and the southbound (route_direction_id = 9)
 routes.  Each row contains information about the time of day (in seconds after
@@ -19,28 +19,34 @@ midnight) that the bus arrived, how early or late it was (adherence) how many
 people boarded, how many people exited (alightings), and various other pieces
 of information, such as which physical bus the data came from.
 
-You will notice that the arrival and departure times are often missing, which 
-means that the adherence is missing as well. The overall task of this project
-is to fill in those missing values. In addition to the missing values in the original
-dataset, marked as NA, I have marked additional rows as NA for evaluating your
-method of filling them in. Part of your grade will depend on your overall RMSE
-for filling in the missing values.
+Please note and abide by the data usage statement from Metro Transit:
 
-Below is a list of items you are expected to address in your report:
+"The accompanying dataset ("70_grand_20250701-20260630.csv") is provided
+exclusively for academic instruction. It is not official Metro Transit/Bi‑State
+Development data, nor does it reflect the agency’s system of record. Students
+may use this dataset only within the scope of this course. Redistribution or
+external use is not permitted."
 
-1. Figure out the sequence of stops in the northbound and southbound directions
+I have done some initial cleaning of this dataset, mostly to aggregate
+information from duplicate rows. You have access to a derived dataset
+"bus_stop_data_v1.csv". The data usage statement of course applies to any
+derived dataset as well.
 
-2. Investigate how the time of the the stop (departure time - arrival time) depends
-   on various factors, such as stop, boardings, alightings, time of day, etc.
+Your overall task is to get familiar with the data by providing exploratory
+analyses and data visualizations. Each group must investigate the topic assigned
+to their group number below:
 
-3. Create a model or method for filling in the missing arrival times, departure times,
-   and adherences. Explain in detail how you filled in the missing times.
+1. Variation in number of boardings and number of
+   passengers by location, time of day, day of week, etc.
+2. Variation in route duration.
+3. Variation average adherence along the route.
+4. Variation in stop time across time of day, day of week, number of boardings
+5. Variation in travel time between stops 
+6. Identify potentially erroneous outliers in the data
+7. Identify reasons for missing values in the data
 
-4. Return a dataset with filled in times, in the following order: order by trip, with
-   trips ordered by departure time of the first stop in the trip. Within trip, order
-   chronologically.
+In addition to your assigned topic, each group must pick one additional topic to 
+investigate, either from the list above, or a topic you come up with on your own.
 
-
-
-
+Your report should also outline important data cleaning and processing steps.
 
