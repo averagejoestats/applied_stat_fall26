@@ -1,6 +1,6 @@
 
 format_raw_season_data <- function( dat ){
-    
+
     # Remove the "Playoffs" row
     dat <- dat[ !dat$Date == "Playoffs", ]
 

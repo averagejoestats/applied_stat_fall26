@@ -1,273 +1,277 @@
-Week,Day,,VisTm,Pts,,HomeTm,Pts,Time
-1,Wed,September 9,New England Patriots,,@,Seattle Seahawks,,8:20 PM
-1,Thu,September 10,San Francisco 49ers,,@,Los Angeles Rams,,8:35 PM
-1,Sun,September 13,Chicago Bears,,@,Carolina Panthers,,1:00 PM
-1,Sun,September 13,Tampa Bay Buccaneers,,@,Cincinnati Bengals,,1:00 PM
-1,Sun,September 13,Baltimore Ravens,,@,Indianapolis Colts,,1:00 PM
-1,Sun,September 13,New Orleans Saints,,@,Detroit Lions,,1:00 PM
-1,Sun,September 13,Buffalo Bills,,@,Houston Texans,,1:00 PM
-1,Sun,September 13,Cleveland Browns,,@,Jacksonville Jaguars,,1:00 PM
-1,Sun,September 13,New York Jets,,@,Tennessee Titans,,1:00 PM
-1,Sun,September 13,Atlanta Falcons,,@,Pittsburgh Steelers,,1:00 PM
-1,Sun,September 13,Green Bay Packers,,@,Minnesota Vikings,,4:25 PM
-1,Sun,September 13,Washington Commanders,,@,Philadelphia Eagles,,4:25 PM
-1,Sun,September 13,Miami Dolphins,,@,Las Vegas Raiders,,4:25 PM
-1,Sun,September 13,Arizona Cardinals,,@,Los Angeles Chargers,,4:25 PM
-1,Sun,September 13,Dallas Cowboys,,@,New York Giants,,8:20 PM
-1,Mon,September 14,Denver Broncos,,@,Kansas City Chiefs,,8:15 PM
-2,Thu,September 17,Detroit Lions,,@,Buffalo Bills,,8:15 PM
-2,Sun,September 20,Carolina Panthers,,@,Atlanta Falcons,,1:00 PM
-2,Sun,September 20,Minnesota Vikings,,@,Chicago Bears,,1:00 PM
-2,Sun,September 20,Cincinnati Bengals,,@,Houston Texans,,1:00 PM
-2,Sun,September 20,Pittsburgh Steelers,,@,New England Patriots,,1:00 PM
-2,Sun,September 20,Green Bay Packers,,@,New York Jets,,1:00 PM
-2,Sun,September 20,Philadelphia Eagles,,@,Tennessee Titans,,1:00 PM
-2,Sun,September 20,New Orleans Saints,,@,Baltimore Ravens,,1:00 PM
-2,Sun,September 20,Cleveland Browns,,@,Tampa Bay Buccaneers,,1:00 PM
-2,Sun,September 20,Jacksonville Jaguars,,@,Denver Broncos,,4:05 PM
-2,Sun,September 20,Las Vegas Raiders,,@,Los Angeles Chargers,,4:05 PM
-2,Sun,September 20,Seattle Seahawks,,@,Arizona Cardinals,,4:25 PM
-2,Sun,September 20,Washington Commanders,,@,Dallas Cowboys,,4:25 PM
-2,Sun,September 20,Miami Dolphins,,@,San Francisco 49ers,,4:25 PM
-2,Sun,September 20,Indianapolis Colts,,@,Kansas City Chiefs,,8:20 PM
-2,Mon,September 21,New York Giants,,@,Los Angeles Rams,,8:15 PM
-3,Thu,September 24,Atlanta Falcons,,@,Green Bay Packers,,8:15 PM
-3,Sun,September 27,Los Angeles Chargers,,@,Buffalo Bills,,1:00 PM
-3,Sun,September 27,Carolina Panthers,,@,Cleveland Browns,,1:00 PM
-3,Sun,September 27,Houston Texans,,@,Indianapolis Colts,,1:00 PM
-3,Sun,September 27,New York Jets,,@,Detroit Lions,,1:00 PM
-3,Sun,September 27,New England Patriots,,@,Jacksonville Jaguars,,1:00 PM
-3,Sun,September 27,Kansas City Chiefs,,@,Miami Dolphins,,1:00 PM
-3,Sun,September 27,Tennessee Titans,,@,New York Giants,,1:00 PM
-3,Sun,September 27,Cincinnati Bengals,,@,Pittsburgh Steelers,,1:00 PM
-3,Sun,September 27,Seattle Seahawks,,@,Washington Commanders,,1:00 PM
-3,Sun,September 27,Arizona Cardinals,,@,San Francisco 49ers,,4:05 PM
-3,Sun,September 27,Minnesota Vikings,,@,Tampa Bay Buccaneers,,4:05 PM
-3,Sun,September 27,Baltimore Ravens,,@,Dallas Cowboys,,4:25 PM
-3,Sun,September 27,Las Vegas Raiders,,@,New Orleans Saints,,4:25 PM
-3,Sun,September 27,Los Angeles Rams,,@,Denver Broncos,,8:20 PM
-3,Mon,September 28,Philadelphia Eagles,,@,Chicago Bears,,8:15 PM
-4,Thu,October 1,Pittsburgh Steelers,,@,Cleveland Browns,,8:15 PM
-4,Sun,October 4,Indianapolis Colts,,@,Washington Commanders,,9:30 AM
-4,Sun,October 4,New England Patriots,,@,Buffalo Bills,,1:00 PM
-4,Sun,October 4,New York Jets,,@,Chicago Bears,,1:00 PM
-4,Sun,October 4,Jacksonville Jaguars,,@,Cincinnati Bengals,,1:00 PM
-4,Sun,October 4,Dallas Cowboys,,@,Houston Texans,,1:00 PM
-4,Sun,October 4,Arizona Cardinals,,@,New York Giants,,1:00 PM
-4,Sun,October 4,Los Angeles Rams,,@,Philadelphia Eagles,,1:00 PM
-4,Sun,October 4,Tennessee Titans,,@,Baltimore Ravens,,1:00 PM
-4,Sun,October 4,Green Bay Packers,,@,Tampa Bay Buccaneers,,1:00 PM
-4,Sun,October 4,Miami Dolphins,,@,Minnesota Vikings,,4:05 PM
-4,Sun,October 4,Kansas City Chiefs,,@,Las Vegas Raiders,,4:25 PM
-4,Sun,October 4,Los Angeles Chargers,,@,Seattle Seahawks,,4:25 PM
-4,Sun,October 4,Denver Broncos,,@,San Francisco 49ers,,4:25 PM
-4,Sun,October 4,Detroit Lions,,@,Carolina Panthers,,8:20 PM
-4,Mon,October 5,Atlanta Falcons,,@,New Orleans Saints,,8:15 PM
-5,Thu,October 8,Tampa Bay Buccaneers,,@,Dallas Cowboys,,8:15 PM
-5,Sun,October 11,Philadelphia Eagles,,@,Jacksonville Jaguars,,9:30 AM
-5,Sun,October 11,Cincinnati Bengals,,@,Miami Dolphins,,1:00 PM
-5,Sun,October 11,Minnesota Vikings,,@,New Orleans Saints,,1:00 PM
-5,Sun,October 11,Las Vegas Raiders,,@,New England Patriots,,1:00 PM
-5,Sun,October 11,Cleveland Browns,,@,New York Jets,,1:00 PM
-5,Sun,October 11,Houston Texans,,@,Tennessee Titans,,1:00 PM
-5,Sun,October 11,Indianapolis Colts,,@,Pittsburgh Steelers,,1:00 PM
-5,Sun,October 11,New York Giants,,@,Washington Commanders,,1:00 PM
-5,Sun,October 11,Denver Broncos,,@,Los Angeles Chargers,,4:05 PM
-5,Sun,October 11,Detroit Lions,,@,Arizona Cardinals,,4:25 PM
-5,Sun,October 11,Chicago Bears,,@,Green Bay Packers,,4:25 PM
-5,Sun,October 11,San Francisco 49ers,,@,Seattle Seahawks,,4:25 PM
-5,Sun,October 11,Baltimore Ravens,,@,Atlanta Falcons,,8:20 PM
-5,Mon,October 12,Buffalo Bills,,@,Los Angeles Rams,,8:15 PM
-6,Thu,October 15,Seattle Seahawks,,@,Denver Broncos,,8:15 PM
-6,Sun,October 18,Houston Texans,,@,Jacksonville Jaguars,,9:30 AM
-6,Sun,October 18,Chicago Bears,,@,Atlanta Falcons,,1:00 PM
-6,Sun,October 18,Baltimore Ravens,,@,Cleveland Browns,,1:00 PM
-6,Sun,October 18,Tennessee Titans,,@,Indianapolis Colts,,1:00 PM
-6,Sun,October 18,New York Jets,,@,New England Patriots,,1:00 PM
-6,Sun,October 18,New Orleans Saints,,@,New York Giants,,1:00 PM
-6,Sun,October 18,Carolina Panthers,,@,Philadelphia Eagles,,1:00 PM
-6,Sun,October 18,Pittsburgh Steelers,,@,Tampa Bay Buccaneers,,1:00 PM
-6,Sun,October 18,Arizona Cardinals,,@,Los Angeles Rams,,4:05 PM
-6,Sun,October 18,Los Angeles Chargers,,@,Kansas City Chiefs,,4:25 PM
-6,Sun,October 18,Buffalo Bills,,@,Las Vegas Raiders,,4:25 PM
-6,Sun,October 18,Dallas Cowboys,,@,Green Bay Packers,,8:20 PM
-6,Mon,October 19,Washington Commanders,,@,San Francisco 49ers,,8:15 PM
-7,Thu,October 22,New England Patriots,,@,Chicago Bears,,8:15 PM
-7,Sun,October 25,Pittsburgh Steelers,,@,New Orleans Saints,,9:30 AM
-7,Sun,October 25,San Francisco 49ers,,@,Atlanta Falcons,,1:00 PM
-7,Sun,October 25,Tampa Bay Buccaneers,,@,Carolina Panthers,,1:00 PM
-7,Sun,October 25,New York Giants,,@,Houston Texans,,1:00 PM
-7,Sun,October 25,Indianapolis Colts,,@,Minnesota Vikings,,1:00 PM
-7,Sun,October 25,Miami Dolphins,,@,New York Jets,,1:00 PM
-7,Sun,October 25,Cleveland Browns,,@,Tennessee Titans,,1:00 PM
-7,Sun,October 25,Cincinnati Bengals,,@,Baltimore Ravens,,1:00 PM
-7,Sun,October 25,Denver Broncos,,@,Arizona Cardinals,,4:05 PM
-7,Sun,October 25,Green Bay Packers,,@,Detroit Lions,,4:25 PM
-7,Sun,October 25,Los Angeles Rams,,@,Las Vegas Raiders,,4:25 PM
-7,Sun,October 25,Kansas City Chiefs,,@,Seattle Seahawks,,8:20 PM
-7,Mon,October 26,Dallas Cowboys,,@,Philadelphia Eagles,,8:15 PM
-8,Thu,October 29,Carolina Panthers,,@,Green Bay Packers,,8:15 PM
-8,Sun,November 1,Baltimore Ravens,,@,Buffalo Bills,,1:00 PM
-8,Sun,November 1,Tennessee Titans,,@,Cincinnati Bengals,,1:00 PM
-8,Sun,November 1,Arizona Cardinals,,@,Dallas Cowboys,,1:00 PM
-8,Sun,November 1,Minnesota Vikings,,@,Detroit Lions,,1:00 PM
-8,Sun,November 1,Indianapolis Colts,,@,Jacksonville Jaguars,,1:00 PM
-8,Sun,November 1,Las Vegas Raiders,,@,New York Jets,,1:00 PM
-8,Sun,November 1,Cleveland Browns,,@,Pittsburgh Steelers,,1:00 PM
-8,Sun,November 1,Atlanta Falcons,,@,Tampa Bay Buccaneers,,1:00 PM
-8,Sun,November 1,Los Angeles Chargers,,@,Los Angeles Rams,,4:05 PM
-8,Sun,November 1,Kansas City Chiefs,,@,Denver Broncos,,4:25 PM
-8,Sun,November 1,New England Patriots,,@,Miami Dolphins,,4:25 PM
-8,Sun,November 1,Philadelphia Eagles,,@,Washington Commanders,,8:20 PM
-8,Mon,November 2,Chicago Bears,,@,Seattle Seahawks,,8:15 PM
-9,Thu,November 5,Jacksonville Jaguars,,@,Baltimore Ravens,,8:15 PM
-9,Sun,November 8,Cincinnati Bengals,,@,Atlanta Falcons,,9:30 AM
-9,Sun,November 8,Denver Broncos,,@,Carolina Panthers,,1:00 PM
-9,Sun,November 8,Dallas Cowboys,,@,Indianapolis Colts,,1:00 PM
-9,Sun,November 8,New York Jets,,@,Kansas City Chiefs,,1:00 PM
-9,Sun,November 8,Detroit Lions,,@,Miami Dolphins,,1:00 PM
-9,Sun,November 8,Cleveland Browns,,@,New Orleans Saints,,1:00 PM
-9,Sun,November 8,New York Giants,,@,Philadelphia Eagles,,1:00 PM
-9,Sun,November 8,Los Angeles Rams,,@,Washington Commanders,,1:00 PM
-9,Sun,November 8,Houston Texans,,@,Los Angeles Chargers,,4:05 PM
-9,Sun,November 8,Las Vegas Raiders,,@,San Francisco 49ers,,4:05 PM
-9,Sun,November 8,Green Bay Packers,,@,New England Patriots,,4:25 PM
-9,Sun,November 8,Arizona Cardinals,,@,Seattle Seahawks,,4:25 PM
-9,Sun,November 8,Tampa Bay Buccaneers,,@,Chicago Bears,,8:20 PM
-9,Mon,November 9,Buffalo Bills,,@,Minnesota Vikings,,8:15 PM
-10,Thu,November 12,Washington Commanders,,@,New York Giants,,8:15 PM
-10,Sun,November 15,New England Patriots,,@,Detroit Lions,,9:30 AM
-10,Sun,November 15,Kansas City Chiefs,,@,Atlanta Falcons,,1:00 PM
-10,Sun,November 15,Houston Texans,,@,Cleveland Browns,,1:00 PM
-10,Sun,November 15,Miami Dolphins,,@,Indianapolis Colts,,1:00 PM
-10,Sun,November 15,Minnesota Vikings,,@,Green Bay Packers,,1:00 PM
-10,Sun,November 15,Carolina Panthers,,@,New Orleans Saints,,1:00 PM
-10,Sun,November 15,Buffalo Bills,,@,New York Jets,,1:00 PM
-10,Sun,November 15,Jacksonville Jaguars,,@,Tennessee Titans,,1:00 PM
-10,Sun,November 15,Los Angeles Rams,,@,Arizona Cardinals,,4:05 PM
-10,Sun,November 15,Seattle Seahawks,,@,Las Vegas Raiders,,4:05 PM
-10,Sun,November 15,San Francisco 49ers,,@,Dallas Cowboys,,4:25 PM
-10,Sun,November 15,Pittsburgh Steelers,,@,Cincinnati Bengals,,8:20 PM
-10,Mon,November 16,Los Angeles Chargers,,@,Baltimore Ravens,,8:15 PM
-11,Thu,November 19,Indianapolis Colts,,@,Houston Texans,,8:15 PM
-11,Sun,November 22,Miami Dolphins,,@,Buffalo Bills,,1:00 PM
-11,Sun,November 22,Baltimore Ravens,,@,Carolina Panthers,,1:00 PM
-11,Sun,November 22,New Orleans Saints,,@,Chicago Bears,,1:00 PM
-11,Sun,November 22,Tennessee Titans,,@,Dallas Cowboys,,1:00 PM
-11,Sun,November 22,Tampa Bay Buccaneers,,@,Detroit Lions,,1:00 PM
-11,Sun,November 22,Arizona Cardinals,,@,Kansas City Chiefs,,1:00 PM
-11,Sun,November 22,Jacksonville Jaguars,,@,New York Giants,,1:00 PM
-11,Sun,November 22,New York Jets,,@,Los Angeles Chargers,,4:05 PM
-11,Sun,November 22,Las Vegas Raiders,,@,Denver Broncos,,4:25 PM
-11,Sun,November 22,Pittsburgh Steelers,,@,Philadelphia Eagles,,4:25 PM
-11,Sun,November 22,Minnesota Vikings,,@,San Francisco 49ers,,8:20 PM
-11,Mon,November 23,Cincinnati Bengals,,@,Washington Commanders,,8:15 PM
-12,Wed,November 25,Green Bay Packers,,@,Los Angeles Rams,,8:00 PM
-12,Thu,November 26,Chicago Bears,,@,Detroit Lions,,1:00 PM
-12,Thu,November 26,Philadelphia Eagles,,@,Dallas Cowboys,,4:30 PM
-12,Thu,November 26,Kansas City Chiefs,,@,Buffalo Bills,,8:20 PM
-12,Fri,November 27,Denver Broncos,,@,Pittsburgh Steelers,,3:00 PM
-12,Sun,November 29,New Orleans Saints,,@,Cincinnati Bengals,,1:00 PM
-12,Sun,November 29,Las Vegas Raiders,,@,Cleveland Browns,,1:00 PM
-12,Sun,November 29,New York Giants,,@,Indianapolis Colts,,1:00 PM
-12,Sun,November 29,Baltimore Ravens,,@,Houston Texans,,1:00 PM
-12,Sun,November 29,New York Jets,,@,Miami Dolphins,,1:00 PM
-12,Sun,November 29,Atlanta Falcons,,@,Minnesota Vikings,,1:00 PM
-12,Sun,November 29,Tennessee Titans,,@,Jacksonville Jaguars,,4:05 PM
-12,Sun,November 29,Washington Commanders,,@,Arizona Cardinals,,4:25 PM
-12,Sun,November 29,Seattle Seahawks,,@,San Francisco 49ers,,4:25 PM
-12,Sun,November 29,New England Patriots,,@,Los Angeles Chargers,,8:20 PM
-12,Mon,November 30,Carolina Panthers,,@,Tampa Bay Buccaneers,,8:15 PM
-13,Thu,December 3,Kansas City Chiefs,,@,Los Angeles Rams,,8:15 PM
-13,Sun,December 6,Detroit Lions,,@,Atlanta Falcons,,1:00 PM
-13,Sun,December 6,Jacksonville Jaguars,,@,Chicago Bears,,1:00 PM
-13,Sun,December 6,Cincinnati Bengals,,@,Cleveland Browns,,1:00 PM
-13,Sun,December 6,Green Bay Packers,,@,New Orleans Saints,,1:00 PM
-13,Sun,December 6,San Francisco 49ers,,@,New York Giants,,1:00 PM
-13,Sun,December 6,Washington Commanders,,@,Tennessee Titans,,1:00 PM
-13,Sun,December 6,Los Angeles Chargers,,@,Tampa Bay Buccaneers,,1:00 PM
-13,Sun,December 6,Philadelphia Eagles,,@,Arizona Cardinals,,4:05 PM
-13,Sun,December 6,Miami Dolphins,,@,Denver Broncos,,4:05 PM
-13,Sun,December 6,Carolina Panthers,,@,Minnesota Vikings,,4:25 PM
-13,Sun,December 6,Buffalo Bills,,@,New England Patriots,,4:25 PM
-13,Sun,December 6,Houston Texans,,@,Pittsburgh Steelers,,8:20 PM
-13,Mon,December 7,Dallas Cowboys,,@,Seattle Seahawks,,8:15 PM
-14,Thu,December 10,Minnesota Vikings,,@,New England Patriots,,8:15 PM
-14,Sun,December 13,New Orleans Saints,,@,Carolina Panthers,,1:00 PM
-14,Sun,December 13,Atlanta Falcons,,@,Cleveland Browns,,1:00 PM
-14,Sun,December 13,Tennessee Titans,,@,Detroit Lions,,1:00 PM
-14,Sun,December 13,Chicago Bears,,@,Miami Dolphins,,1:00 PM
-14,Sun,December 13,Denver Broncos,,@,New York Jets,,1:00 PM
-14,Sun,December 13,Indianapolis Colts,,@,Philadelphia Eagles,,1:00 PM
-14,Sun,December 13,Tampa Bay Buccaneers,,@,Baltimore Ravens,,1:00 PM
-14,Sun,December 13,Houston Texans,,@,Washington Commanders,,1:00 PM
-14,Sun,December 13,Los Angeles Chargers,,@,Las Vegas Raiders,,4:05 PM
-14,Sun,December 13,Kansas City Chiefs,,@,Cincinnati Bengals,,4:25 PM
-14,Sun,December 13,New York Giants,,@,Seattle Seahawks,,4:25 PM
-14,Sun,December 13,Los Angeles Rams,,@,San Francisco 49ers,,4:25 PM
-14,Sun,December 13,Buffalo Bills,,@,Green Bay Packers,,8:20 PM
-14,Mon,December 14,Pittsburgh Steelers,,@,Jacksonville Jaguars,,8:15 PM
-15,Thu,December 17,San Francisco 49ers,,@,Los Angeles Chargers,,8:15 PM
-15,Sat,December 19,Seattle Seahawks,,@,Philadelphia Eagles,,5:00 PM
-15,Sat,December 19,Chicago Bears,,@,Buffalo Bills,,8:20 PM
-15,Sun,December 20,Cincinnati Bengals,,@,Carolina Panthers,,1:00 PM
-15,Sun,December 20,Miami Dolphins,,@,Green Bay Packers,,1:00 PM
-15,Sun,December 20,Jacksonville Jaguars,,@,Houston Texans,,1:00 PM
-15,Sun,December 20,Cleveland Browns,,@,New York Giants,,1:00 PM
-15,Sun,December 20,Indianapolis Colts,,@,Tennessee Titans,,1:00 PM
-15,Sun,December 20,Baltimore Ravens,,@,Pittsburgh Steelers,,1:00 PM
-15,Sun,December 20,New Orleans Saints,,@,Tampa Bay Buccaneers,,1:00 PM
-15,Sun,December 20,Atlanta Falcons,,@,Washington Commanders,,1:00 PM
-15,Sun,December 20,New York Jets,,@,Arizona Cardinals,,4:05 PM
-15,Sun,December 20,Denver Broncos,,@,Las Vegas Raiders,,4:25 PM
-15,Sun,December 20,Dallas Cowboys,,@,Los Angeles Rams,,4:25 PM
-15,Sun,December 20,Detroit Lions,,@,Minnesota Vikings,,8:20 PM
-15,Mon,December 21,New England Patriots,,@,Kansas City Chiefs,,8:15 PM
-16,Thu,December 24,Houston Texans,,@,Philadelphia Eagles,,8:15 PM
-16,Fri,December 25,Green Bay Packers,,@,Chicago Bears,,1:00 PM
-16,Fri,December 25,Buffalo Bills,,@,Denver Broncos,,4:30 PM
-16,Fri,December 25,Los Angeles Rams,,@,Seattle Seahawks,,8:15 PM
-16,Sun,December 27,Tampa Bay Buccaneers,,@,Atlanta Falcons,,1:00 PM
-16,Sun,December 27,Cincinnati Bengals,,@,Indianapolis Colts,,1:00 PM
-16,Sun,December 27,Los Angeles Chargers,,@,Miami Dolphins,,1:00 PM
-16,Sun,December 27,Washington Commanders,,@,Minnesota Vikings,,1:00 PM
-16,Sun,December 27,Arizona Cardinals,,@,New Orleans Saints,,1:00 PM
-16,Sun,December 27,New England Patriots,,@,New York Jets,,1:00 PM
-16,Sun,December 27,Carolina Panthers,,@,Pittsburgh Steelers,,1:00 PM
-16,Sun,December 27,Cleveland Browns,,@,Baltimore Ravens,,1:00 PM
-16,Sun,December 27,Tennessee Titans,,@,Las Vegas Raiders,,4:05 PM
-16,Sun,December 27,San Francisco 49ers,,@,Kansas City Chiefs,,4:25 PM
-16,Sun,December 27,Jacksonville Jaguars,,@,Dallas Cowboys,,8:20 PM
-16,Mon,December 28,New York Giants,,@,Detroit Lions,,8:15 PM
-17,Thu,December 31,Baltimore Ravens,,@,Cincinnati Bengals,,8:15 PM
-17,Sun,January 3,New Orleans Saints,,@,Atlanta Falcons,,1:00 PM
-17,Sun,January 3,Seattle Seahawks,,@,Carolina Panthers,,1:00 PM
-17,Sun,January 3,Indianapolis Colts,,@,Cleveland Browns,,1:00 PM
-17,Sun,January 3,New York Giants,,@,Dallas Cowboys,,1:00 PM
-17,Sun,January 3,Washington Commanders,,@,Jacksonville Jaguars,,1:00 PM
-17,Sun,January 3,Buffalo Bills,,@,Miami Dolphins,,1:00 PM
-17,Sun,January 3,Denver Broncos,,@,New England Patriots,,1:00 PM
-17,Sun,January 3,Minnesota Vikings,,@,New York Jets,,1:00 PM
-17,Sun,January 3,Pittsburgh Steelers,,@,Tennessee Titans,,1:00 PM
-17,Sun,January 3,Kansas City Chiefs,,@,Los Angeles Chargers,,1:00 PM
-17,Sun,January 3,Los Angeles Rams,,@,Tampa Bay Buccaneers,,1:00 PM
-17,Sun,January 3,Las Vegas Raiders,,@,Arizona Cardinals,,4:05 PM
-17,Sun,January 3,Detroit Lions,,@,Chicago Bears,,4:25 PM
-17,Sun,January 3,Philadelphia Eagles,,@,San Francisco 49ers,,8:20 PM
-17,Mon,January 4,Houston Texans,,@,Green Bay Packers,,8:15 PM
-18,Sun,January 10,New York Jets,,@,Buffalo Bills,,1:00 PM
-18,Sun,January 10,Atlanta Falcons,,@,Carolina Panthers,,1:00 PM
-18,Sun,January 10,Cleveland Browns,,@,Cincinnati Bengals,,1:00 PM
-18,Sun,January 10,Jacksonville Jaguars,,@,Indianapolis Colts,,1:00 PM
-18,Sun,January 10,San Francisco 49ers,,@,Arizona Cardinals,,1:00 PM
-18,Sun,January 10,Los Angeles Chargers,,@,Denver Broncos,,1:00 PM
-18,Sun,January 10,Detroit Lions,,@,Green Bay Packers,,1:00 PM
-18,Sun,January 10,Tennessee Titans,,@,Houston Texans,,1:00 PM
-18,Sun,January 10,Las Vegas Raiders,,@,Kansas City Chiefs,,1:00 PM
-18,Sun,January 10,Chicago Bears,,@,Minnesota Vikings,,1:00 PM
-18,Sun,January 10,Tampa Bay Buccaneers,,@,New Orleans Saints,,1:00 PM
-18,Sun,January 10,Miami Dolphins,,@,New England Patriots,,1:00 PM
-18,Sun,January 10,Philadelphia Eagles,,@,New York Giants,,1:00 PM
-18,Sun,January 10,Seattle Seahawks,,@,Los Angeles Rams,,1:00 PM
-18,Sun,January 10,Pittsburgh Steelers,,@,Baltimore Ravens,,1:00 PM
-18,Sun,January 10,Dallas Cowboys,,@,Washington Commanders,,1:00 PM
+--- When using SR data, please cite us and provide a link and/or a mention.
+
+
+ 
+Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
+1,Wed,2026-09-09,8:20PM,Seattle Seahawks,,New England Patriots,boxscore,13,10,285,0,277,3
+1,Thu,2026-09-10,8:35PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,27,7,379,1,290,2
+1,Sun,2026-09-13,1:00PM,Pittsburgh Steelers,,Atlanta Falcons,boxscore,20,13,264,1,238,2
+1,Sun,2026-09-13,1:00PM,Buffalo Bills,@,Houston Texans,boxscore,36,31,409,0,381,2
+1,Sun,2026-09-13,1:00PM,Chicago Bears,@,Carolina Panthers,boxscore,59,37,552,1,478,3
+1,Sun,2026-09-13,1:00PM,Cincinnati Bengals,,Tampa Bay Buccaneers,boxscore,33,27,351,1,282,4
+1,Sun,2026-09-13,1:00PM,Jacksonville Jaguars,,Cleveland Browns,boxscore,34,10,360,0,272,2
+1,Sun,2026-09-13,1:00PM,Baltimore Ravens,@,Indianapolis Colts,boxscore,41,23,506,1,251,2
+1,Sun,2026-09-13,1:00PM,Detroit Lions,,New Orleans Saints,boxscore,31,30,369,1,469,3
+1,Sun,2026-09-13,1:00PM,New York Jets,@,Tennessee Titans,boxscore,23,10,367,0,195,1
+1,Sun,2026-09-13,4:25PM,Arizona Cardinals,@,Los Angeles Chargers,boxscore,26,14,393,0,268,2
+1,Sun,2026-09-13,4:25PM,Minnesota Vikings,,Green Bay Packers,boxscore,39,22,239,1,419,2
+1,Sun,2026-09-13,4:25PM,Las Vegas Raiders,,Miami Dolphins,boxscore,27,13,290,2,259,2
+1,Sun,2026-09-13,4:25PM,Philadelphia Eagles,,Washington Commanders,boxscore,24,22,318,0,295,0
+1,Sun,2026-09-13,8:20PM,New York Giants,,Dallas Cowboys,boxscore,28,20,394,1,244,1
+1,Mon,2026-09-14,8:15PM,Kansas City Chiefs,,Denver Broncos,boxscore,31,10,392,1,176,2
+2,Thu,2026-09-17,8:15PM,Detroit Lions,@,Buffalo Bills,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Carolina Panthers,@,Atlanta Falcons,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Cincinnati Bengals,@,Houston Texans,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Cleveland Browns,@,Tampa Bay Buccaneers,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Green Bay Packers,@,New York Jets,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Minnesota Vikings,@,Chicago Bears,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,New Orleans Saints,@,Baltimore Ravens,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Philadelphia Eagles,@,Tennessee Titans,preview,,,,,,
+2,Sun,2026-09-20,1:00PM,Pittsburgh Steelers,@,New England Patriots,preview,,,,,,
+2,Sun,2026-09-20,4:05PM,Jacksonville Jaguars,@,Denver Broncos,preview,,,,,,
+2,Sun,2026-09-20,4:05PM,Las Vegas Raiders,@,Los Angeles Chargers,preview,,,,,,
+2,Sun,2026-09-20,4:25PM,Miami Dolphins,@,San Francisco 49ers,preview,,,,,,
+2,Sun,2026-09-20,4:25PM,Seattle Seahawks,@,Arizona Cardinals,preview,,,,,,
+2,Sun,2026-09-20,4:25PM,Washington Commanders,@,Dallas Cowboys,preview,,,,,,
+2,Sun,2026-09-20,8:20PM,Indianapolis Colts,@,Kansas City Chiefs,preview,,,,,,
+2,Mon,2026-09-21,8:15PM,New York Giants,@,Los Angeles Rams,preview,,,,,,
+3,Thu,2026-09-24,8:15PM,Atlanta Falcons,@,Green Bay Packers,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Carolina Panthers,@,Cleveland Browns,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Cincinnati Bengals,@,Pittsburgh Steelers,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Houston Texans,@,Indianapolis Colts,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Kansas City Chiefs,@,Miami Dolphins,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,New England Patriots,@,Jacksonville Jaguars,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,New York Jets,@,Detroit Lions,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Tennessee Titans,@,New York Giants,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Los Angeles Chargers,@,Buffalo Bills,preview,,,,,,
+3,Sun,2026-09-27,1:00PM,Seattle Seahawks,@,Washington Commanders,preview,,,,,,
+3,Sun,2026-09-27,4:05PM,Arizona Cardinals,@,San Francisco 49ers,preview,,,,,,
+3,Sun,2026-09-27,4:05PM,Minnesota Vikings,@,Tampa Bay Buccaneers,preview,,,,,,
+3,Sun,2026-09-27,4:25PM,Las Vegas Raiders,@,New Orleans Saints,preview,,,,,,
+3,Sun,2026-09-27,4:25PM,Baltimore Ravens,@,Dallas Cowboys,preview,,,,,,
+3,Sun,2026-09-27,8:20PM,Los Angeles Rams,@,Denver Broncos,preview,,,,,,
+3,Mon,2026-09-28,8:15PM,Philadelphia Eagles,@,Chicago Bears,preview,,,,,,
+4,Thu,2026-10-01,8:15PM,Pittsburgh Steelers,@,Cleveland Browns,preview,,,,,,
+4,Sun,2026-10-04,9:30AM,Indianapolis Colts,@,Washington Commanders,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Arizona Cardinals,@,New York Giants,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Dallas Cowboys,@,Houston Texans,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Green Bay Packers,@,Tampa Bay Buccaneers,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Jacksonville Jaguars,@,Cincinnati Bengals,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,New England Patriots,@,Buffalo Bills,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,New York Jets,@,Chicago Bears,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Tennessee Titans,@,Baltimore Ravens,preview,,,,,,
+4,Sun,2026-10-04,1:00PM,Los Angeles Rams,@,Philadelphia Eagles,preview,,,,,,
+4,Sun,2026-10-04,4:05PM,Miami Dolphins,@,Minnesota Vikings,preview,,,,,,
+4,Sun,2026-10-04,4:25PM,Denver Broncos,@,San Francisco 49ers,preview,,,,,,
+4,Sun,2026-10-04,4:25PM,Kansas City Chiefs,@,Las Vegas Raiders,preview,,,,,,
+4,Sun,2026-10-04,4:25PM,Los Angeles Chargers,@,Seattle Seahawks,preview,,,,,,
+4,Sun,2026-10-04,8:20PM,Detroit Lions,@,Carolina Panthers,preview,,,,,,
+4,Mon,2026-10-05,8:15PM,Atlanta Falcons,@,New Orleans Saints,preview,,,,,,
+5,Thu,2026-10-08,8:15PM,Tampa Bay Buccaneers,@,Dallas Cowboys,preview,,,,,,
+5,Sun,2026-10-11,9:30AM,Philadelphia Eagles,@,Jacksonville Jaguars,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Cincinnati Bengals,@,Miami Dolphins,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Cleveland Browns,@,New York Jets,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Indianapolis Colts,@,Pittsburgh Steelers,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Houston Texans,@,Tennessee Titans,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Minnesota Vikings,@,New Orleans Saints,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,New York Giants,@,Washington Commanders,preview,,,,,,
+5,Sun,2026-10-11,1:00PM,Las Vegas Raiders,@,New England Patriots,preview,,,,,,
+5,Sun,2026-10-11,4:05PM,Denver Broncos,@,Los Angeles Chargers,preview,,,,,,
+5,Sun,2026-10-11,4:25PM,Chicago Bears,@,Green Bay Packers,preview,,,,,,
+5,Sun,2026-10-11,4:25PM,Detroit Lions,@,Arizona Cardinals,preview,,,,,,
+5,Sun,2026-10-11,4:25PM,San Francisco 49ers,@,Seattle Seahawks,preview,,,,,,
+5,Sun,2026-10-11,8:20PM,Baltimore Ravens,@,Atlanta Falcons,preview,,,,,,
+5,Mon,2026-10-12,8:15PM,Buffalo Bills,@,Los Angeles Rams,preview,,,,,,
+6,Thu,2026-10-15,8:15PM,Seattle Seahawks,@,Denver Broncos,preview,,,,,,
+6,Sun,2026-10-18,9:30AM,Houston Texans,@,Jacksonville Jaguars,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,Carolina Panthers,@,Philadelphia Eagles,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,Chicago Bears,@,Atlanta Falcons,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,New Orleans Saints,@,New York Giants,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,New York Jets,@,New England Patriots,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,Tennessee Titans,@,Indianapolis Colts,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,Pittsburgh Steelers,@,Tampa Bay Buccaneers,preview,,,,,,
+6,Sun,2026-10-18,1:00PM,Baltimore Ravens,@,Cleveland Browns,preview,,,,,,
+6,Sun,2026-10-18,4:05PM,Arizona Cardinals,@,Los Angeles Rams,preview,,,,,,
+6,Sun,2026-10-18,4:25PM,Buffalo Bills,@,Las Vegas Raiders,preview,,,,,,
+6,Sun,2026-10-18,4:25PM,Los Angeles Chargers,@,Kansas City Chiefs,preview,,,,,,
+6,Sun,2026-10-18,8:20PM,Dallas Cowboys,@,Green Bay Packers,preview,,,,,,
+6,Mon,2026-10-19,8:15PM,Washington Commanders,@,San Francisco 49ers,preview,,,,,,
+7,Thu,2026-10-22,8:15PM,New England Patriots,@,Chicago Bears,preview,,,,,,
+7,Sun,2026-10-25,9:30AM,Pittsburgh Steelers,@,New Orleans Saints,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,Cincinnati Bengals,@,Baltimore Ravens,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,Cleveland Browns,@,Tennessee Titans,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,Indianapolis Colts,@,Minnesota Vikings,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,Miami Dolphins,@,New York Jets,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,New York Giants,@,Houston Texans,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,San Francisco 49ers,@,Atlanta Falcons,preview,,,,,,
+7,Sun,2026-10-25,1:00PM,Tampa Bay Buccaneers,@,Carolina Panthers,preview,,,,,,
+7,Sun,2026-10-25,4:05PM,Denver Broncos,@,Arizona Cardinals,preview,,,,,,
+7,Sun,2026-10-25,4:25PM,Green Bay Packers,@,Detroit Lions,preview,,,,,,
+7,Sun,2026-10-25,4:25PM,Los Angeles Rams,@,Las Vegas Raiders,preview,,,,,,
+7,Sun,2026-10-25,8:20PM,Kansas City Chiefs,@,Seattle Seahawks,preview,,,,,,
+7,Mon,2026-10-26,8:15PM,Dallas Cowboys,@,Philadelphia Eagles,preview,,,,,,
+8,Thu,2026-10-29,8:15PM,Carolina Panthers,@,Green Bay Packers,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Atlanta Falcons,@,Tampa Bay Buccaneers,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Cleveland Browns,@,Pittsburgh Steelers,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Indianapolis Colts,@,Jacksonville Jaguars,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Arizona Cardinals,@,Dallas Cowboys,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Minnesota Vikings,@,Detroit Lions,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Tennessee Titans,@,Cincinnati Bengals,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Las Vegas Raiders,@,New York Jets,preview,,,,,,
+8,Sun,2026-11-01,1:00PM,Baltimore Ravens,@,Buffalo Bills,preview,,,,,,
+8,Sun,2026-11-01,4:05PM,Los Angeles Chargers,@,Los Angeles Rams,preview,,,,,,
+8,Sun,2026-11-01,4:25PM,Kansas City Chiefs,@,Denver Broncos,preview,,,,,,
+8,Sun,2026-11-01,4:25PM,New England Patriots,@,Miami Dolphins,preview,,,,,,
+8,Sun,2026-11-01,8:20PM,Philadelphia Eagles,@,Washington Commanders,preview,,,,,,
+8,Mon,2026-11-02,8:15PM,Chicago Bears,@,Seattle Seahawks,preview,,,,,,
+9,Thu,2026-11-05,8:15PM,Jacksonville Jaguars,@,Baltimore Ravens,preview,,,,,,
+9,Sun,2026-11-08,9:30AM,Cincinnati Bengals,@,Atlanta Falcons,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,Cleveland Browns,@,New Orleans Saints,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,Dallas Cowboys,@,Indianapolis Colts,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,Denver Broncos,@,Carolina Panthers,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,Detroit Lions,@,Miami Dolphins,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,New York Giants,@,Philadelphia Eagles,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,New York Jets,@,Kansas City Chiefs,preview,,,,,,
+9,Sun,2026-11-08,1:00PM,Los Angeles Rams,@,Washington Commanders,preview,,,,,,
+9,Sun,2026-11-08,4:05PM,Houston Texans,@,Los Angeles Chargers,preview,,,,,,
+9,Sun,2026-11-08,4:05PM,Las Vegas Raiders,@,San Francisco 49ers,preview,,,,,,
+9,Sun,2026-11-08,4:25PM,Arizona Cardinals,@,Seattle Seahawks,preview,,,,,,
+9,Sun,2026-11-08,4:25PM,Green Bay Packers,@,New England Patriots,preview,,,,,,
+9,Sun,2026-11-08,8:20PM,Tampa Bay Buccaneers,@,Chicago Bears,preview,,,,,,
+9,Mon,2026-11-09,8:15PM,Buffalo Bills,@,Minnesota Vikings,preview,,,,,,
+10,Thu,2026-11-12,8:15PM,Washington Commanders,@,New York Giants,preview,,,,,,
+10,Sun,2026-11-15,9:30AM,New England Patriots,@,Detroit Lions,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Buffalo Bills,@,New York Jets,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Carolina Panthers,@,New Orleans Saints,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Houston Texans,@,Cleveland Browns,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Jacksonville Jaguars,@,Tennessee Titans,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Kansas City Chiefs,@,Atlanta Falcons,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Miami Dolphins,@,Indianapolis Colts,preview,,,,,,
+10,Sun,2026-11-15,1:00PM,Minnesota Vikings,@,Green Bay Packers,preview,,,,,,
+10,Sun,2026-11-15,4:05PM,Los Angeles Rams,@,Arizona Cardinals,preview,,,,,,
+10,Sun,2026-11-15,4:05PM,Seattle Seahawks,@,Las Vegas Raiders,preview,,,,,,
+10,Sun,2026-11-15,4:25PM,San Francisco 49ers,@,Dallas Cowboys,preview,,,,,,
+10,Sun,2026-11-15,8:20PM,Pittsburgh Steelers,@,Cincinnati Bengals,preview,,,,,,
+10,Mon,2026-11-16,8:15PM,Los Angeles Chargers,@,Baltimore Ravens,preview,,,,,,
+11,Thu,2026-11-19,8:15PM,Indianapolis Colts,@,Houston Texans,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Arizona Cardinals,@,Kansas City Chiefs,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Jacksonville Jaguars,@,New York Giants,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Miami Dolphins,@,Buffalo Bills,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,New Orleans Saints,@,Chicago Bears,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Tennessee Titans,@,Dallas Cowboys,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Baltimore Ravens,@,Carolina Panthers,preview,,,,,,
+11,Sun,2026-11-22,1:00PM,Tampa Bay Buccaneers,@,Detroit Lions,preview,,,,,,
+11,Sun,2026-11-22,4:05PM,New York Jets,@,Los Angeles Chargers,preview,,,,,,
+11,Sun,2026-11-22,4:25PM,Pittsburgh Steelers,@,Philadelphia Eagles,preview,,,,,,
+11,Sun,2026-11-22,4:25PM,Las Vegas Raiders,@,Denver Broncos,preview,,,,,,
+11,Sun,2026-11-22,8:20PM,Minnesota Vikings,@,San Francisco 49ers,preview,,,,,,
+11,Mon,2026-11-23,8:15PM,Cincinnati Bengals,@,Washington Commanders,preview,,,,,,
+12,Wed,2026-11-25,8:00PM,Green Bay Packers,@,Los Angeles Rams,preview,,,,,,
+12,Thu,2026-11-26,1:00PM,Chicago Bears,@,Detroit Lions,preview,,,,,,
+12,Thu,2026-11-26,4:30PM,Philadelphia Eagles,@,Dallas Cowboys,preview,,,,,,
+12,Thu,2026-11-26,8:20PM,Kansas City Chiefs,@,Buffalo Bills,preview,,,,,,
+12,Fri,2026-11-27,3:00PM,Denver Broncos,@,Pittsburgh Steelers,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,Atlanta Falcons,@,Minnesota Vikings,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,New Orleans Saints,@,Cincinnati Bengals,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,New York Giants,@,Indianapolis Colts,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,New York Jets,@,Miami Dolphins,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,Las Vegas Raiders,@,Cleveland Browns,preview,,,,,,
+12,Sun,2026-11-29,1:00PM,Baltimore Ravens,@,Houston Texans,preview,,,,,,
+12,Sun,2026-11-29,4:05PM,Tennessee Titans,@,Jacksonville Jaguars,preview,,,,,,
+12,Sun,2026-11-29,4:25PM,Seattle Seahawks,@,San Francisco 49ers,preview,,,,,,
+12,Sun,2026-11-29,4:25PM,Washington Commanders,@,Arizona Cardinals,preview,,,,,,
+12,Sun,2026-11-29,8:20PM,New England Patriots,@,Los Angeles Chargers,preview,,,,,,
+12,Mon,2026-11-30,8:15PM,Carolina Panthers,@,Tampa Bay Buccaneers,preview,,,,,,
+13,Thu,2026-12-03,8:15PM,Kansas City Chiefs,@,Los Angeles Rams,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Cincinnati Bengals,@,Cleveland Browns,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Detroit Lions,@,Atlanta Falcons,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Green Bay Packers,@,New Orleans Saints,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Jacksonville Jaguars,@,Chicago Bears,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Los Angeles Chargers,@,Tampa Bay Buccaneers,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,San Francisco 49ers,@,New York Giants,preview,,,,,,
+13,Sun,2026-12-06,1:00PM,Washington Commanders,@,Tennessee Titans,preview,,,,,,
+13,Sun,2026-12-06,4:05PM,Miami Dolphins,@,Denver Broncos,preview,,,,,,
+13,Sun,2026-12-06,4:05PM,Philadelphia Eagles,@,Arizona Cardinals,preview,,,,,,
+13,Sun,2026-12-06,4:25PM,Buffalo Bills,@,New England Patriots,preview,,,,,,
+13,Sun,2026-12-06,4:25PM,Carolina Panthers,@,Minnesota Vikings,preview,,,,,,
+13,Sun,2026-12-06,8:20PM,Houston Texans,@,Pittsburgh Steelers,preview,,,,,,
+13,Mon,2026-12-07,8:15PM,Dallas Cowboys,@,Seattle Seahawks,preview,,,,,,
+14,Thu,2026-12-10,8:15PM,Minnesota Vikings,@,New England Patriots,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Atlanta Falcons,@,Cleveland Browns,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Chicago Bears,@,Miami Dolphins,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Indianapolis Colts,@,Philadelphia Eagles,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Denver Broncos,@,New York Jets,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Houston Texans,@,Washington Commanders,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,New Orleans Saints,@,Carolina Panthers,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Tennessee Titans,@,Detroit Lions,preview,,,,,,
+14,Sun,2026-12-13,1:00PM,Tampa Bay Buccaneers,@,Baltimore Ravens,preview,,,,,,
+14,Sun,2026-12-13,4:05PM,Los Angeles Chargers,@,Las Vegas Raiders,preview,,,,,,
+14,Sun,2026-12-13,4:25PM,Kansas City Chiefs,@,Cincinnati Bengals,preview,,,,,,
+14,Sun,2026-12-13,4:25PM,New York Giants,@,Seattle Seahawks,preview,,,,,,
+14,Sun,2026-12-13,4:25PM,Los Angeles Rams,@,San Francisco 49ers,preview,,,,,,
+14,Sun,2026-12-13,8:20PM,Buffalo Bills,@,Green Bay Packers,preview,,,,,,
+14,Mon,2026-12-14,8:15PM,Pittsburgh Steelers,@,Jacksonville Jaguars,preview,,,,,,
+15,Thu,2026-12-17,8:15PM,San Francisco 49ers,@,Los Angeles Chargers,preview,,,,,,
+15,Sat,2026-12-19,5:00PM,Seattle Seahawks,@,Philadelphia Eagles,preview,,,,,,
+15,Sat,2026-12-19,8:20PM,Chicago Bears,@,Buffalo Bills,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Atlanta Falcons,@,Washington Commanders,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Cincinnati Bengals,@,Carolina Panthers,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Cleveland Browns,@,New York Giants,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Indianapolis Colts,@,Tennessee Titans,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Jacksonville Jaguars,@,Houston Texans,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Miami Dolphins,@,Green Bay Packers,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,New Orleans Saints,@,Tampa Bay Buccaneers,preview,,,,,,
+15,Sun,2026-12-20,1:00PM,Baltimore Ravens,@,Pittsburgh Steelers,preview,,,,,,
+15,Sun,2026-12-20,4:05PM,New York Jets,@,Arizona Cardinals,preview,,,,,,
+15,Sun,2026-12-20,4:25PM,Dallas Cowboys,@,Los Angeles Rams,preview,,,,,,
+15,Sun,2026-12-20,4:25PM,Denver Broncos,@,Las Vegas Raiders,preview,,,,,,
+15,Sun,2026-12-20,8:20PM,Detroit Lions,@,Minnesota Vikings,preview,,,,,,
+15,Mon,2026-12-21,8:15PM,New England Patriots,@,Kansas City Chiefs,preview,,,,,,
+16,Thu,2026-12-24,8:15PM,Houston Texans,@,Philadelphia Eagles,preview,,,,,,
+16,Fri,2026-12-25,1:00PM,Green Bay Packers,@,Chicago Bears,preview,,,,,,
+16,Fri,2026-12-25,4:30PM,Buffalo Bills,@,Denver Broncos,preview,,,,,,
+16,Fri,2026-12-25,8:15PM,Los Angeles Rams,@,Seattle Seahawks,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Carolina Panthers,@,Pittsburgh Steelers,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Cincinnati Bengals,@,Indianapolis Colts,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Cleveland Browns,@,Baltimore Ravens,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Arizona Cardinals,@,New Orleans Saints,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,New England Patriots,@,New York Jets,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Los Angeles Chargers,@,Miami Dolphins,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Tampa Bay Buccaneers,@,Atlanta Falcons,preview,,,,,,
+16,Sun,2026-12-27,1:00PM,Washington Commanders,@,Minnesota Vikings,preview,,,,,,
+16,Sun,2026-12-27,4:05PM,Tennessee Titans,@,Las Vegas Raiders,preview,,,,,,
+16,Sun,2026-12-27,4:25PM,San Francisco 49ers,@,Kansas City Chiefs,preview,,,,,,
+16,Sun,2026-12-27,8:20PM,Jacksonville Jaguars,@,Dallas Cowboys,preview,,,,,,
+16,Mon,2026-12-28,8:15PM,New York Giants,@,Detroit Lions,preview,,,,,,
+17,Thu,2026-12-31,8:15PM,Baltimore Ravens,@,Cincinnati Bengals,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Buffalo Bills,@,Miami Dolphins,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Indianapolis Colts,@,Cleveland Browns,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Denver Broncos,@,New England Patriots,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Kansas City Chiefs,@,Los Angeles Chargers,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Minnesota Vikings,@,New York Jets,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,New Orleans Saints,@,Atlanta Falcons,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,New York Giants,@,Dallas Cowboys,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Pittsburgh Steelers,@,Tennessee Titans,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Los Angeles Rams,@,Tampa Bay Buccaneers,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Seattle Seahawks,@,Carolina Panthers,preview,,,,,,
+17,Sun,2027-01-03,1:00PM,Washington Commanders,@,Jacksonville Jaguars,preview,,,,,,
+17,Sun,2027-01-03,4:05PM,Las Vegas Raiders,@,Arizona Cardinals,preview,,,,,,
+17,Sun,2027-01-03,4:25PM,Detroit Lions,@,Chicago Bears,preview,,,,,,
+17,Sun,2027-01-03,8:20PM,Philadelphia Eagles,@,San Francisco 49ers,preview,,,,,,
+17,Mon,2027-01-04,8:15PM,Houston Texans,@,Green Bay Packers,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Atlanta Falcons,@,Carolina Panthers,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Chicago Bears,@,Minnesota Vikings,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Cleveland Browns,@,Cincinnati Bengals,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Dallas Cowboys,@,Washington Commanders,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Detroit Lions,@,Green Bay Packers,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Jacksonville Jaguars,@,Indianapolis Colts,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Miami Dolphins,@,New England Patriots,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,New York Jets,@,Buffalo Bills,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Tennessee Titans,@,Houston Texans,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Philadelphia Eagles,@,New York Giants,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Pittsburgh Steelers,@,Baltimore Ravens,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Las Vegas Raiders,@,Kansas City Chiefs,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Los Angeles Chargers,@,Denver Broncos,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Seattle Seahawks,@,Los Angeles Rams,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,San Francisco 49ers,@,Arizona Cardinals,preview,,,,,,
+18,Sun,2027-01-10,1:00PM,Tampa Bay Buccaneers,@,New Orleans Saints,preview,,,,,,
