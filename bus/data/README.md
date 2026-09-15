@@ -1,2 +1,7 @@
 
 Download data file from canvas and put it in this directory
+
+From Metro Transit:
+
+"The accompanying dataset ("70_grand_20250701-20260630.csv") is provided exclusively for academic instruction. It is not official Metro Transit/Bi‑State Development data, nor does it reflect the agency’s system of record. Students may use this dataset only within the scope of this course. Redistribution or external use is not permitted."
+
