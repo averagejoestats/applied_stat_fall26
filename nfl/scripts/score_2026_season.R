@@ -32,7 +32,7 @@ for(j in 1:ngroups){
 
 # print the scores
 x <- round( scores, 4 )
-data.frame( score = x, diff = x - max(x) )
+data.frame( score = x, diff = x - max(x), avg = x/( length(home_win) + length(away_win) ) )
 
 # add score columns to the dataset
 for(j in 1:ngroups){ groups[[ paste0("score",j) ]] <- NA }
