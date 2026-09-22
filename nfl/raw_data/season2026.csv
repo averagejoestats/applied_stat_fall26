@@ -5,36 +5,36 @@
 Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 1,Wed,2026-09-09,8:20PM,Seattle Seahawks,,New England Patriots,boxscore,13,10,285,0,277,3
 1,Thu,2026-09-10,8:35PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,27,7,379,1,290,2
-1,Sun,2026-09-13,1:00PM,Pittsburgh Steelers,,Atlanta Falcons,boxscore,20,13,264,1,238,2
 1,Sun,2026-09-13,1:00PM,Buffalo Bills,@,Houston Texans,boxscore,36,31,409,0,381,2
 1,Sun,2026-09-13,1:00PM,Chicago Bears,@,Carolina Panthers,boxscore,59,37,552,1,478,3
+1,Sun,2026-09-13,1:00PM,New York Jets,@,Tennessee Titans,boxscore,23,10,367,0,195,1
 1,Sun,2026-09-13,1:00PM,Cincinnati Bengals,,Tampa Bay Buccaneers,boxscore,33,27,351,1,282,4
 1,Sun,2026-09-13,1:00PM,Jacksonville Jaguars,,Cleveland Browns,boxscore,34,10,360,0,272,2
 1,Sun,2026-09-13,1:00PM,Baltimore Ravens,@,Indianapolis Colts,boxscore,41,23,506,1,251,2
 1,Sun,2026-09-13,1:00PM,Detroit Lions,,New Orleans Saints,boxscore,31,30,369,1,469,3
-1,Sun,2026-09-13,1:00PM,New York Jets,@,Tennessee Titans,boxscore,23,10,367,0,195,1
-1,Sun,2026-09-13,4:25PM,Arizona Cardinals,@,Los Angeles Chargers,boxscore,26,14,393,0,268,2
-1,Sun,2026-09-13,4:25PM,Minnesota Vikings,,Green Bay Packers,boxscore,39,22,239,1,419,2
-1,Sun,2026-09-13,4:25PM,Las Vegas Raiders,,Miami Dolphins,boxscore,27,13,290,2,259,2
+1,Sun,2026-09-13,1:00PM,Pittsburgh Steelers,,Atlanta Falcons,boxscore,20,13,264,1,238,2
 1,Sun,2026-09-13,4:25PM,Philadelphia Eagles,,Washington Commanders,boxscore,24,22,318,0,295,0
+1,Sun,2026-09-13,4:25PM,Las Vegas Raiders,,Miami Dolphins,boxscore,27,13,290,2,259,2
+1,Sun,2026-09-13,4:25PM,Minnesota Vikings,,Green Bay Packers,boxscore,39,22,239,1,419,2
+1,Sun,2026-09-13,4:25PM,Arizona Cardinals,@,Los Angeles Chargers,boxscore,26,14,393,0,268,2
 1,Sun,2026-09-13,8:20PM,New York Giants,,Dallas Cowboys,boxscore,28,20,394,1,244,1
 1,Mon,2026-09-14,8:15PM,Kansas City Chiefs,,Denver Broncos,boxscore,31,10,392,1,176,2
-2,Thu,2026-09-17,8:15PM,Detroit Lions,@,Buffalo Bills,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Carolina Panthers,@,Atlanta Falcons,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Cincinnati Bengals,@,Houston Texans,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Cleveland Browns,@,Tampa Bay Buccaneers,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Green Bay Packers,@,New York Jets,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Minnesota Vikings,@,Chicago Bears,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,New Orleans Saints,@,Baltimore Ravens,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Philadelphia Eagles,@,Tennessee Titans,preview,,,,,,
-2,Sun,2026-09-20,1:00PM,Pittsburgh Steelers,@,New England Patriots,preview,,,,,,
-2,Sun,2026-09-20,4:05PM,Jacksonville Jaguars,@,Denver Broncos,preview,,,,,,
-2,Sun,2026-09-20,4:05PM,Las Vegas Raiders,@,Los Angeles Chargers,preview,,,,,,
-2,Sun,2026-09-20,4:25PM,Miami Dolphins,@,San Francisco 49ers,preview,,,,,,
-2,Sun,2026-09-20,4:25PM,Seattle Seahawks,@,Arizona Cardinals,preview,,,,,,
-2,Sun,2026-09-20,4:25PM,Washington Commanders,@,Dallas Cowboys,preview,,,,,,
-2,Sun,2026-09-20,8:20PM,Indianapolis Colts,@,Kansas City Chiefs,preview,,,,,,
-2,Mon,2026-09-21,8:15PM,New York Giants,@,Los Angeles Rams,preview,,,,,,
+2,Thu,2026-09-17,8:15PM,Buffalo Bills,,Detroit Lions,boxscore,41,31,446,0,355,0
+2,Sun,2026-09-20,1:00PM,Green Bay Packers,@,New York Jets,boxscore,20,17,199,1,285,0
+2,Sun,2026-09-20,1:00PM,Cleveland Browns,@,Tampa Bay Buccaneers,boxscore,23,19,267,0,313,1
+2,Sun,2026-09-20,1:00PM,New Orleans Saints,@,Baltimore Ravens,boxscore,24,17,298,0,312,1
+2,Sun,2026-09-20,1:00PM,Cincinnati Bengals,@,Houston Texans,boxscore,20,6,267,0,374,0
+2,Sun,2026-09-20,1:00PM,New England Patriots,,Pittsburgh Steelers,boxscore,20,3,327,2,235,2
+2,Sun,2026-09-20,1:00PM,Minnesota Vikings,@,Chicago Bears,boxscore,9,3,246,0,297,2
+2,Sun,2026-09-20,1:00PM,Philadelphia Eagles,@,Tennessee Titans,boxscore,24,20,341,2,291,0
+2,Sun,2026-09-20,1:00PM,Carolina Panthers,@,Atlanta Falcons,boxscore,34,3,340,0,286,5
+2,Sun,2026-09-20,4:05PM,Denver Broncos,,Jacksonville Jaguars,boxscore,20,13,392,1,268,1
+2,Sun,2026-09-20,4:05PM,Las Vegas Raiders,@,Los Angeles Chargers,boxscore,26,14,305,1,310,3
+2,Sun,2026-09-20,4:25PM,Dallas Cowboys,,Washington Commanders,boxscore,37,20,332,0,389,1
+2,Sun,2026-09-20,4:25PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,31,7,381,1,151,1
+2,Sun,2026-09-20,4:25PM,San Francisco 49ers,,Miami Dolphins,boxscore,35,13,382,0,284,0
+2,Sun,2026-09-20,8:20PM,Kansas City Chiefs,,Indianapolis Colts,boxscore,33,30,523,0,329,1
+2,Mon,2026-09-21,8:15PM,Los Angeles Rams,,New York Giants,boxscore,28,6,481,2,182,1
 3,Thu,2026-09-24,8:15PM,Atlanta Falcons,@,Green Bay Packers,preview,,,,,,
 3,Sun,2026-09-27,1:00PM,Carolina Panthers,@,Cleveland Browns,preview,,,,,,
 3,Sun,2026-09-27,1:00PM,Cincinnati Bengals,@,Pittsburgh Steelers,preview,,,,,,
@@ -275,3 +275,4 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
 18,Sun,2027-01-10,1:00PM,Seattle Seahawks,@,Los Angeles Rams,preview,,,,,,
 18,Sun,2027-01-10,1:00PM,San Francisco 49ers,@,Arizona Cardinals,preview,,,,,,
 18,Sun,2027-01-10,1:00PM,Tampa Bay Buccaneers,@,New Orleans Saints,preview,,,,,,
+
