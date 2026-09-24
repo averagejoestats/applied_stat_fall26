@@ -187,21 +187,43 @@ title(line = 2.2, xlab = "Adherence" )
 
 
 plot( dat$stop_time, dat$boardings + dat$alightings )
+
 plot( sqrt( dat$stop_time ), dat$boardings + dat$alightings )
+
 plot( sqrt( dat$stop_time ), sqrt(dat$boardings + dat$alightings) )
 
 plot( sqrt( dat$stop_time ), sqrt(dat$boardings + dat$alightings), pch = 16, cex = 0.5 )
 
 dat$jitter <- rnorm(nrow(dat))
 
-plot( sqrt( dat$stop_time ), 0.05*dat$jitter + sqrt(dat$boardings + dat$alightings), pch = 16, cex = 0.5 )
+plot( sqrt( dat$stop_time ),
+     0.05*dat$jitter + sqrt(dat$boardings + dat$alightings),
+     pch = 16, cex = 0.5
+)
 
 
 ii <- sample( 1:nrow(dat), 200000 )
-plot( sqrt( dat$stop_time[ii] ), 0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), pch = 16, cex = 0.3 )
+plot( sqrt( dat$stop_time[ii] ),
+     0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]),
+     pch = 16, cex = 0.3
+)
 
 ii <- sample( 1:nrow(dat), 200000 )
-plot( 0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), sqrt(dat$stop_time[ii]), pch = 16, cex = 0.3 )
+plot( 0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]),
+     sqrt(dat$stop_time[ii]),
+     pch = 16, cex = 0.3
+)
 
 ii <- sample( 1:nrow(dat), 200000 )
-plot( 0.03*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), sqrt(dat$stop_time[ii]), pch = 16, cex = 0.3, xlim = c(0,8) )
+plot(
+    0.03*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]),
+    sqrt(dat$stop_time[ii]),
+    pch = 16, cex = 0.3, xlim = c(0,8)
+)
+
+ii <- sample( 1:nrow(dat), 200000 )
+plot(
+    0.07*dat$jitter[ii] + dat$boardings[ii] + dat$alightings[ii],
+    sqrt(dat$stop_time[ii]),
+    pch = 16, cex = 0.3, xlim = c(0,25), ylim = c(0,45) 
+)
