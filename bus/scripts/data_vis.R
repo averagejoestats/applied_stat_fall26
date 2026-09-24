@@ -182,3 +182,26 @@ title(line = 2.2, xlab = "Alightings" )
 plot( dat1$boardings, dat1$adherence, ylab = "Adherence", xlab = "")
 title(line = 0.5, main = "Stop Time vs. Adherence" )
 title(line = 2.2, xlab = "Adherence" )
+
+
+
+
+plot( dat$stop_time, dat$boardings + dat$alightings )
+plot( sqrt( dat$stop_time ), dat$boardings + dat$alightings )
+plot( sqrt( dat$stop_time ), sqrt(dat$boardings + dat$alightings) )
+
+plot( sqrt( dat$stop_time ), sqrt(dat$boardings + dat$alightings), pch = 16, cex = 0.5 )
+
+dat$jitter <- rnorm(nrow(dat))
+
+plot( sqrt( dat$stop_time ), 0.05*dat$jitter + sqrt(dat$boardings + dat$alightings), pch = 16, cex = 0.5 )
+
+
+ii <- sample( 1:nrow(dat), 200000 )
+plot( sqrt( dat$stop_time[ii] ), 0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), pch = 16, cex = 0.3 )
+
+ii <- sample( 1:nrow(dat), 200000 )
+plot( 0.05*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), sqrt(dat$stop_time[ii]), pch = 16, cex = 0.3 )
+
+ii <- sample( 1:nrow(dat), 200000 )
+plot( 0.03*dat$jitter[ii] + sqrt(dat$boardings[ii] + dat$alightings[ii]), sqrt(dat$stop_time[ii]), pch = 16, cex = 0.3, xlim = c(0,8) )
