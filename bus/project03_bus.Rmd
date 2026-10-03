@@ -1,0 +1,73 @@
+---
+title: "SDS 4135 - Project 3"
+subtitle: "Due October 18"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Grand Blvd Bus Data Follow-up Analysis
+
+Students uncovered some interesting patterns in their exploratory analyses. In
+this second #70 Grand bus project, you will follow up and do either
+further visualizations or more formal statistical analyses using models.
+
+For this project, you will have more autonomy in choosing the direction of your
+analysis, to follow up on a potentially interesting aspect of the transit
+problems we discussed.
+
+Here are some suggestions for this project:
+
+1. "Zoom in" and visualize bus journeys when things go well, and when delays
+   occur. Make animations of individual bus journeys, and of how the positions
+   of the buses on the route evolve over time, how many passengers they carry,
+   etc.
+
+2. Build models for the travel time of a bus trip, accounting for various
+   factors. Use your models or empirical distributions to produce travel time
+   distributions from a south side location and a north side location to the
+   Grand Transit Center.
+
+3. Investigate how long a passenger needs to wait for the bus to arrive,
+   and how this wait time distribution varies across the route and over the
+   course of the day, week, and year. Also uncover how the schedule varies
+   throughout the day and week.
+
+4. Investigate the relationship between weather and travel time. This will
+   involve getting weather information. Do some "storm case studies" of how the
+   bus trips were affected by major storm events.
+
+5. Find a different external dataset you can pair with the bus data to inform a
+   meaningful analysis. For example census data.
+
+6. Find specific instances of "bus bunching" and visualize them. Make some high
+   quality animations. Determine how often this phenomenon occurs and when it
+   is likely to occur.
+
+7. Look at a particular segment or group of segments in more detail. Can you
+   find stoplight effects? Can you find other idiosyncrasies of the segment
+   that show up in the data?
+
+8. Separate out the reroute period and analyze the differences between the
+   reroute and regular route periods
+
+You are also free to explore some other aspects not listed here.
+
+Please send me what your group wishes to analyze via e-mail before class on
+Thursday October 8. Also send a backup topic in case we get too many groups
+choosing the same topic(s).
+
+We will use the preliminary reports to refine your project
+scope.
+
+# Data Usage
+
+Please note and abide by the data usage statement from Metro Transit:
+
+"The accompanying dataset ("70_grand_20250701-20260630.csv") is provided
+exclusively for academic instruction. It is not official Metro Transit/Bi‑State
+Development data, nor does it reflect the agency’s system of record. Students
+may use this dataset only within the scope of this course. Redistribution or
+external use is not permitted."
