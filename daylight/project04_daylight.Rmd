@@ -1,0 +1,38 @@
+---
+title: "SDS 4135 - Project 4"
+subtitle: "Due November 8"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Daylight Savings Time and Fatal Crashes
+
+There is ongoing debate over whether the United States should continue
+with its current practice of moving clocks one hour ahead in early
+March and one hour back in early November, in other words to observe
+``daylight savings time'' during the middle of the year. The U.S.\
+House of Representatives has passed a bill to place the country on 
+permanent daylight savings time. Others propose that we switch to
+permanent standard time, which means not altering the clocks at all.
+
+Your task in this project is to produce statistical analyses that
+attempt to answer the question, "What is the effect of daylight
+savings on traffic fatalities in the U.S.?" The challenge here is that
+we have not run controlled experiments, so we must try to answer the
+question using observational data.
+
+You have been provided with a dataset called ``fars.RData'', which has
+10 years of data from the Fatality Analysis Reporting System,
+a National Highway Traffic Safety Administration program for collecting
+fatal accident reports into a national database. The data go back to 1975;
+additional data beyond the 10 years provided can be found here:
+
+https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/
+
+You may use this dataset or any external datasets to help answer the
+project question. In additional to the project question, your group
+should propose another interesting question and attempt to answer
+it using a statistical analysis.
